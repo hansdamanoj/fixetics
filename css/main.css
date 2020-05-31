@@ -3433,7 +3433,7 @@ html[xmlns] .slides {
 		position: absolute;
 		margin: 0;
 		bottom: auto;
-		top: 50%;
+		top: 25%;
 		right: auto;
 		width: auto;
 		height: 10px;
@@ -10287,6 +10287,7 @@ body.active-side-header.slide-right .page_header_side {
 	clear: both;
 	max-width: 100%;
 	overflow: hidden;
+	max-height: 500px;
 }
 
 .intro_section > img {
@@ -10372,7 +10373,7 @@ body.active-side-header.slide-right .page_header_side {
 
 .intro_section .slide_description_wrapper {
 	position: absolute;
-	top: 0;
+	top: -115px;
 	bottom: 0;
 	right: 0;
 	left: 0;
