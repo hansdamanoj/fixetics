@@ -16130,3 +16130,6 @@ ul.hours_links li span:last-child {
     right: 0;
     padding-left: 5px;
 }
+.footer_panel h3{
+	text-transform: uppercase;
+}
