@@ -16094,12 +16094,12 @@ ul.social-icons li a::before {
     -o-transform: scale(.5);
     transform: scale(.5);
 }
-ul.links li a::before {
+/* ul.links li a::before {
     color: #ffffff44;
     margin-right: 5px;
     content: "\f0da";
     vertical-align: baseline;
-}
+} */
 ul.links li a, ul.hours_links li, .readmorebtn {
     font-size: 14px;
 }
