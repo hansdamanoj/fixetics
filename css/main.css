@@ -16133,3 +16133,10 @@ ul.hours_links li span:last-child {
 .footer_panel h3{
 	text-transform: uppercase;
 }
+ul.hours_links li::before {
+    height: 1px;
+    width: 100%;
+    border-bottom: 1px dashed #fff;
+    top: 56%;
+    margin-top: -2px;
+}
