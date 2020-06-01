@@ -16019,8 +16019,8 @@ a.color-icon.border-icon:hover {
     color: #ffb200 !important;
 }
 a.footer_logo.bottom25 {
-    color: #eee;
-    font-size: 20px;
+    color: #ffb200;
+    font-size: 30px;
     text-transform: capitalize;
     font-weight: 700;
 }
